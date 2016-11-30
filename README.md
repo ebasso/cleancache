@@ -17,5 +17,4 @@ Edit crontab using crontab -e
 
 Add the following lines
 
-###### Script de Limpeza do Cache do IBM HTTP Server######
-0 4 * * 6 /opt/IBM/HTTPServer/bin/cleancache.sh
+ 0 4 * * 6 /opt/IBM/HTTPServer/bin/cleancache.sh
